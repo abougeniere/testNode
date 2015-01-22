@@ -1,4 +1,26 @@
 {
-  "name": "TestNode",
-  "version": "0.0.1"
+  "name": "testNode",
+  "version": "1.0.0",
+  "description": "Test node Alain",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abougeniere/testNode.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Alain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abougeniere/testNode/issues"
+  },
+  "homepage": "https://github.com/abougeniere/testNode"
 }
